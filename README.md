@@ -2,9 +2,9 @@
 This project focused on creating and deploying a static web page dedicated to the Indian Premier League (IPL) and its teams. The platform provides comprehensive information about IPL teams, fostering a community of dedicated cricket enthusiasts. Join us on this journey to explore the world of IPL and its teams.
 
 # Project Details
-1. **Project Demo URL:** https://mystoragevault.z13.web.core.windows.net/
-2. **Demo Video URL:** https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
-3. **GitHub Repository URL:** https://github.com/kbjtushar/victory-vault
+1. **Project Demo URL:** /
+2. **Demo Video URL:** 
+3. **GitHub Repository URL:** (https://github.com/adithyeshwar/Azurep1.git)
 4. **Industry:** Sports - Cricket
 
 # Roles and Responsibilities
@@ -36,14 +36,15 @@ The infrastructure includes a Virtual Network (VNET) with two subnets, ensuring 
 5. **Resource Group:** Centralizes management and organization of all project resources.
 
 # Screenshots:
-- **VNET Configuration**
-  ![VNET Configuration](https://github.com/kbjtushar/victory-vault/assets/161484157/721ce368-18ed-40f7-b87e-4e3934f644ec)
+- **Virtual machines Configuration**
+  ![VM-1 Configuration](major/vm1.png)
+  ![VM-2 Configuration](major/vm2.png)
   
 - **Static Website**
-  ![Static Website](https://github.com/kbjtushar/victory-vault/assets/161484157/08f69078-1167-463f-8f20-dcefd5085e33)
+  ![Static Website](major/webpage1.png)
   
 - **Load Balancer Configuration**
-  ![Load Balancer](https://github.com/kbjtushar/victory-vault/assets/161484157/19f2d0fd-5644-4d1f-a0b1-89d29e8d3d50)
+  ![Load Balancer](major/LB.png)
 
 # Final Project Statement:
 The IPL Static Web Page project successfully created a reliable and accessible platform for cricket fans to explore detailed information about IPL teams. Utilizing Azure services, the project achieved high availability, security, and scalability, ensuring a seamless user experience. This platform now serves as a valuable resource for IPL enthusiasts.
