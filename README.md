@@ -8,10 +8,9 @@ This project focused on creating and deploying a static web page dedicated to th
 4. **Industry:** Sports - Cricket
 
 # Roles and Responsibilities
-1. **Tushar Ray (Project Management):** Manages the web development and deployment project.
-2. **Shreya Chittimalla (Deployment):** Deployment and maintenance of the project infrastructure, including VNETs, VMs, and load balancer setup.
-3. **Anupama Kunnil (Images, Logos, and Chatbot):** Responsible for sourcing images, creating logos, and developing chatbot content.
-4. **Nikhil (Documentation):** Manages the documentation process, ensuring all project details are accurately recorded.
+1. **Adithyeshwar Goud (Project Management, Deployment):** Manages the web development and deployment project, including VNETs, VMs, and load balancer setup.
+2. **Kannaiah (Images, Logos, Chatbot, Documentation):** Responsible for sourcing images, creating logos, developing chatbot content, and managing the documentation process to ensure all project details are accurately recorded.
+
 
 # Azure Services Used:
 1. **Virtual Network (VNET) with 2 Subnets:** Provides network segmentation for the project infrastructure.
