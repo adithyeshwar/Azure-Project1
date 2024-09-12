@@ -2,8 +2,8 @@
 This project focused on creating and deploying a static web page dedicated to the Indian Premier League (IPL) and its teams. The platform provides comprehensive information about IPL teams, fostering a community of dedicated cricket enthusiasts. Join us on this journey to explore the world of IPL and its teams.
 
 # Project Details
-1. **Project Demo URL:** /
-2. **Demo Video URL:** 
+1. **Project Demo URL:** /(https://drive.google.com/file/d/1THT6pf_i_ybcX7-zC9_F_b8ZtGEgN8vQ/view?usp=sharing)
+2. **Demo Video URL:** (https://drive.google.com/file/d/1bh_-3uPyL1NXCaA6lXFBC0wlbgdG7nUW/view?usp=sharing)
 3. **GitHub Repository URL:** (https://github.com/adithyeshwar/Azurep1.git)
 4. **Industry:** Sports - Cricket
 
