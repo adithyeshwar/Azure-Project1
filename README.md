@@ -5,7 +5,7 @@ This project focused on creating and deploying a static web page dedicated to th
 1. **Project Demo URL:** /(https://drive.google.com/file/d/1THT6pf_i_ybcX7-zC9_F_b8ZtGEgN8vQ/view?usp=sharing)
 2. **Demo Video URL:** (https://drive.google.com/file/d/1bh_-3uPyL1NXCaA6lXFBC0wlbgdG7nUW/view?usp=sharing)
 3. **GitHub Repository URL:** (https://github.com/adithyeshwar/Azurep1.git)
-4. **Industry:** Sports - Cricket
+4. **Industry:** Sports - Cricket (https://www.canva.com/design/DAGQkkh3elE/oomZMq3DK8S9AjHN0H_foA/edit?utm_content=DAGQkkh3elE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Roles and Responsibilities
 1. **Adithyeshwar Goud (Project Management, Deployment):** Manages the web development and deployment project, including VNETs, VMs, and load balancer setup.
