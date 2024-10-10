@@ -1,4 +1,57 @@
-	1. Open the Azure portal searh for SQl database .
+
+# **Creating and Managing an Azure SQL Database**
+
+Follow these steps to create and manage your Azure SQL database:
+
+### 1. **Open the Azure Portal**
+   - In the search bar, type **SQL Database**.
+
+### 2. **Create a New SQL Database**
+   - Click on the **Create** button.
+
+### 3. **Fill in the Required Details**
+   - Provide the necessary information for your database.
+   - **Note**: If a server does not exist, create a new one.
+   - **Authentication Method**: Choose **SQL Authentication**.
+   - **Compute + Storage**: Select the **Basic** or any cost-effective option that suits your needs.
+
+### 4. **Review and Create**
+   - Once the details are filled, click **Review + Create** to deploy your SQL database.
+
+### 5. **Navigate to SQL Server**
+   - After deployment, go to your newly created **SQL Server**.
+
+### 6. **Set Networking and Firewall Rules**
+   - Under the **Networking** section, adjust the firewall rules:
+     - **Add your IP address** (IPv4) if your network is IPv6-based.
+     - **Tip**: You can find your IPv4 address by searching "What is my IP address" on Google.
+
+### 7. **Access SQL Database via Query Editor**
+   - Go back to the **SQL Database** and open **Query Editor**.
+   - Enter your **username** and **password** to log in.
+
+### 8. **Ensure SSMS is Installed**
+   - **Note**: Make sure you have installed **Microsoft SQL Server Management Studio (SSMS)** to execute SQL commands.
+
+### 9. **Execute SQL Code**
+   - In SSMS, you can execute the following command to create a table:
+     ```sql
+     CREATE TABLE class (
+         name VARCHAR(10),
+         phone INT
+     );
+     ```
+     
+### 10. **Verify Table Creation**
+   - Once the command runs successfully, you will see a new table named **class** in your database.
+
+
+
+
+
+
+
+1. Open the Azure portal searh for SQl database .
 	2. Click create option 
 	3. Fill the details as required:
 note:  create a new server if not exists.
