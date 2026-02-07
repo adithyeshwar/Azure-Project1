@@ -9,8 +9,6 @@ This project focused on creating and deploying a static web page dedicated to th
 
 # Roles and Responsibilities
 1. **Adithyeshwar Goud (Project Management, Deployment):** Manages the web development and deployment project, including VNETs, VMs, and load balancer setup.
-2. **Kannaiah (Images, Logos, Chatbot, Documentation):** Responsible for sourcing images, creating logos, developing chatbot content, and managing the documentation process to ensure all project details are accurately recorded.
-
 
 # Azure Services Used:
 1. **Virtual Network (VNET) with 2 Subnets:** Provides network segmentation for the project infrastructure.
